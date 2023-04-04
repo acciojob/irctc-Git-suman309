@@ -67,6 +67,7 @@ public class Passenger {
         return bookedTickets;
     }
 
+//     suman
     public void setBookedTickets(List<Ticket> bookedTickets) {
         this.bookedTickets = bookedTickets;
     }
